@@ -1,0 +1,2 @@
+# riskTarot has no external dependencies — uses Python 3 standard library only
+# (random, dataclasses, typing, enum)
